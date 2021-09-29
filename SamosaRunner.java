@@ -14,7 +14,9 @@ String[] ing={"potato","flour","chilli","salt"};
 Samosa samosa1=new Samosa(16.7f,false,SamosaSize.BIG,ing);
 
 System.out.println(samosa1.price);
+System.out.println(samosa1.price);
 System.out.println(samosa1.taste);
+System.out.println(samosa1.price);
 System.out.println(samosa1.size);
 System.out.println(samosa1.ingredients);
 }
